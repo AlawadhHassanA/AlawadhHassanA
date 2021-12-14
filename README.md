@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlawadhHassanA
+- 👋 Hi, I’m Hassan Alawadh
 - 👀 I’m Computer Engineer.
 - 🌱 I’m currently a fresh graduate.
 - 💞️ I’m looking for a job.
