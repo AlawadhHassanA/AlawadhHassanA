@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hassan Alawadh, a fresh graduate Computer Engineer. I’m looking for a job.
+- 👋 Hi, I’m Hassan Alawadh, a fresh graduate Computer Engineer.
 - 🔜 I will be uploading my projects and certificates here
 
 
