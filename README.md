@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hassan Alawadh, Computer Engineer, Project Coordinator works for Dar Beta IT.
-- 🔜 all my projects and certificates are uploaded here
+- 🔜 All my projects and certificates are uploaded here
 
 
 - 📫 You can reach me via Email: "alawadh.hassan.ali@gmail.com" or
