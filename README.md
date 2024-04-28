@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Hassan Alawadh, Computer Engineer, Project Coordinator works for Dar Beta IT.
-- 🔜 All my projects and certificates are uploaded here
+- 👋 Greetings, I’m Hassan Alawadh, Computer Engineer 👷,👨‍💻 Business Analyst works for Deloitte 🟢.
+- 📢 All my Projects and Profissional Certificates are uploaded here
 
 
-- 📫 You can reach me via Email: "alawadh.hassan.ali@gmail.com" or
-- LinkdIn: "https://www.linkedin.com/in/hassan-alawadh-15ba13195" or
+- 📫 You can reach me via:
+- Email: "alawadh.hassan.ali@gmail.com"
+- LinkdIn: "https://www.linkedin.com/in/hassan-alawadh-15ba13195" 
 - Twitter: "https://twitter.com/AlawadhHassanA"
 
 <!---
