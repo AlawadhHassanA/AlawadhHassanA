@@ -3,8 +3,8 @@
 
 
 - 📫 You can reach me via:
-- Email: "alawadh.hassan.ali@gmail.com"
-- LinkdIn: "https://www.linkedin.com/in/hassan-alawadh-15ba13195" 
+- Email: "AlawadhHassanA@gmail.com"
+- LinkdIn: "https://www.linkedin.com/in/AlawadhHassanA" 
 - Twitter: "https://twitter.com/AlawadhHassanA"
 
 <!---
